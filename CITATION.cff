@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you find this research, dataset, or codebase useful in your work, please cite our conference paper as published in Springer CCIS."
+title: "BanglaSentNet: A Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis in Bangla E-Commerce Reviews"
+authors:
+  - family-names: "Islam"
+    given-names: "Ariful"
+    email: "arifulislamnayem11@gmail.com"
+    affiliation: "Chittagong University of Engineering and Technology (CUET), Chittagong, Bangladesh"
+  - family-names: "Hossen"
+    given-names: "Md Rifat"
+    email: "rifat8851@gmail.com"
+    affiliation: "Chittagong University of Engineering and Technology (CUET), Chittagong, Bangladesh"
+collection-title: "Data Science, AI and Applications"
+conference:
+  name: "International Conference on Data Science, AI and Applications (ICDSAIA 2025)"
+year: 2025
+series: "Communications in Computer and Information Science"
+volume: 2682
+start: 283
+end: 300
+publisher:
+  name: "Springer Nature Switzerland"
+  city: "Cham"
+doi: "10.1007/978-3-032-11352-8_20"
+url: "https://link.springer.com/chapter/10.1007/978-3-032-11352-8_20"
+isbn: "978-3-032-11352-8"
+keywords:
+  - "Bangla Natural Language Processing"
+  - "Aspect-Based Sentiment Analysis"
+  - "Multi-Label Text Classification"
+  - "Deep Learning"
+  - "Ensemble Learning"
+  - "BanglaBERT"
+  - "E-Commerce Reviews"
